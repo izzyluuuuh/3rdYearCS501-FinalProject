@@ -1,5 +1,5 @@
 # Project Development (Final)
-<sup>Using PHP &amp; MySQL</sup>
+<sup>Using PHP &amp; implementation of MySQL</sup>
 ### COURSE: Intermediate Web Programming - SY2324-1T
 
 **Project Requirements:**
@@ -11,5 +11,6 @@
 
 ⚠️ A **RUSHED** & not so perfect project during the post pre-final and final term of one of my major courses and the demanding period of our thesis (0). Despite time constraints, it represents my commitment to learning and improvement.
 
-💙 Instagram: [@izzyluuuuh](https://www.instagram.com/izzyluuuuh/)
+Check this out. [PROJECT DEVELOPMENT](https://drive.google.com/drive/folders/1xdSodeYNTam2ZlECIU2xOeR2EtPnoiUG?usp=sharing)
 
+💙 Instagram: [@izzyluuuuh](https://www.instagram.com/izzyluuuuh/)
