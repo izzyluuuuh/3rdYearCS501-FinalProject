@@ -1,6 +1,7 @@
-# Project Development (Final)
+<h1 align="center">Project Development (Final)</h1>
 <sup>Using PHP &amp; implementation of MySQL</sup>
-### COURSE: Intermediate Web Programming - SY2324-1T
+
+### Elective Course: Intermediate Web Programming - SY2324-1T
 
 ---
 
