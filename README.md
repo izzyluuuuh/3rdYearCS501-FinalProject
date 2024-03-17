@@ -1,7 +1,15 @@
 <h1 align="center">Project Development (Final)</h1>
-<sup>Using PHP &amp; implementation of MySQL</sup>
 
 ### Elective Course: Intermediate Web Programming - SY2324-1T
+<sup>Using PHP &amp; implementation of MySQL</sup>
+
+---
+
+**Prerequisites:**
+- PHP and MySQL Fundamentals
+- Visual Studio Code (VS Code) IDE
+- XAMPP Module (Apache, MySQL, PHP)
+- PHP and MySQL Database Interaction
 
 ---
 
